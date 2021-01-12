@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\ascom\source\repos\Project4\Project4\MyForm.cpp(10,15): warning C4551: function call missing argument list
+  MyForm1.cpp
+  MyForm4.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project4.vcxproj -> C:\Users\ascom\source\repos\Project4\Debug\Project4.exe

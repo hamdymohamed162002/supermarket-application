@@ -1,0 +1,2 @@
+Name:hamdy|ID:30|Price:40
+Name:ammar|ID:60|Price:70
